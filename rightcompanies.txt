@@ -1,8 +1,0 @@
-[u'Kixeye, Bush Street, San Francisco, CA, United States']
-[u'Zynga, 8th Street, San Francisco, CA, United States', u'Zynga, Los Gatos, CA, United States']
-[u'Kabam Inc, Folsom Street, San Francisco, CA, United States', u'Kabam Inc, Howard Street, San Francisco, CA, United States']
-[u'Smule, Townsend Street, San Francisco, CA, United States']
-[u'Pretty Simple Solutions LLC, Bayshore Parkway, Mountain View, CA, United States']
-[u'Kongregate, Sansome Street, San Francisco, CA, United States']
-[u'Ubisoft Entertainment, 3rd Street, San Francisco, CA, United States']
-[u'CBS Interactive, 2nd Street, San Francisco, CA, United States', u'Cbs Interactive Inc, San Jose, CA, United States']

@@ -1,1 +1,0 @@
-$(".store-title").each(function(){console.log($(this).text())})
